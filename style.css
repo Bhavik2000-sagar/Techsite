@@ -739,7 +739,7 @@ body{
 
 @media only screen and (max-width:400px){
     .btn3{
-        top: 242%;
+        top: 244%;
         left:13%;
         padding:3px 8px;
         border-radius: 30px;
@@ -747,25 +747,25 @@ body{
     }
 
     .btn4{
-        top: 242%;
+        top: 244%;
         left:63%;
         padding:3px 8px;
         border-radius: 30px;
         position:absolute;
     }
     .p31{
-        top: 235%;
+        top: 237%;
         color: white;
         overflow-wrap: break-word;
-        inline-size: 27rem;
+        inline-size: 25rem;
     }
 
 
     .p32{
-        top: 235%;
+        top: 237%;
         color: white;
         overflow-wrap: break-word;
-        inline-size: 27rem;
+        inline-size: 25rem;
     }
 
     .p-op2{
